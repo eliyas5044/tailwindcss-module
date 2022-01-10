@@ -1,6 +1,6 @@
 {
   "name": "@eliyas5044/tailwindcss",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "TailwindCSS module for Nuxt",
   "repository": "eliyas5044/tailwindcss-module",
   "license": "MIT",
