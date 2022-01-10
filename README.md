@@ -1,6 +1,6 @@
-[![eliyas5044/tailwindcss](https://tailwindcss.nuxtjs.org/preview.png)](https://tailwindcss.nuxtjs.org)
+[![@eliyas5044/tailwindcss](https://tailwindcss.nuxtjs.org/preview.png)](https://tailwindcss.nuxtjs.org)
 
-# eliyas5044/tailwindcss
+# @eliyas5044/tailwindcss
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
@@ -25,21 +25,21 @@
 
 ## Quick Setup
 
-1. Add `eliyas5044/tailwindcss` dependency to your project
+1. Add `@eliyas5044/tailwindcss` dependency to your project
 
 ```bash
 # Using npm
-npm install --save-dev eliyas5044/tailwindcss
+npm install --save-dev @eliyas5044/tailwindcss
 # Using yarn
-yarn add --dev eliyas5044/tailwindcss
+yarn add --dev @eliyas5044/tailwindcss
 ```
 
-2. Add `eliyas5044/tailwindcss` to the `buildModules` section of `nuxt.config.js`
+2. Add `@eliyas5044/tailwindcss` to the `buildModules` section of `nuxt.config.js`
 
 ```js
 {
   buildModules: [
-    'eliyas5044/tailwindcss'
+    '@eliyas5044/tailwindcss'
   ]
 }
 ```
@@ -54,7 +54,7 @@ That's it! You can now use Tailwind classes in your Nuxt app ✨
 
 You can contribute to this module online with CodeSandBox:
 
-[![Edit eliyas5044/tailwindcss](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/nuxt-community/tailwindcss-module/tree/main/?fontsize=14&hidenavigation=1&theme=dark)
+[![Edit @eliyas5044/tailwindcss](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/nuxt-community/tailwindcss-module/tree/main/?fontsize=14&hidenavigation=1&theme=dark)
 
 Or locally:
 
@@ -69,11 +69,11 @@ Or locally:
 Copyright (c) Nuxt.js Team
 
 <!-- Badges -->
-[npm-version-src]: https://img.shields.io/npm/v/eliyas5044/tailwindcss/latest.svg
-[npm-version-href]: https://npmjs.com/package/eliyas5044/tailwindcss
+[npm-version-src]: https://img.shields.io/npm/v/@eliyas5044/tailwindcss/latest.svg
+[npm-version-href]: https://npmjs.com/package/@eliyas5044/tailwindcss
 
-[npm-downloads-src]: https://img.shields.io/npm/dt/eliyas5044/tailwindcss.svg
-[npm-downloads-href]: https://npmjs.com/package/eliyas5044/tailwindcss
+[npm-downloads-src]: https://img.shields.io/npm/dt/@eliyas5044/tailwindcss.svg
+[npm-downloads-href]: https://npmjs.com/package/@eliyas5044/tailwindcss
 
 [github-actions-ci-src]: https://github.com/nuxt-community/tailwindcss-module/workflows/ci/badge.svg
 [github-actions-ci-href]: https://github.com/nuxt-community/tailwindcss-module/actions?query=workflow%3Aci
@@ -81,5 +81,5 @@ Copyright (c) Nuxt.js Team
 [codecov-src]: https://img.shields.io/codecov/c/github/nuxt-community/tailwindcss-module.svg
 [codecov-href]: https://codecov.io/gh/nuxt-community/tailwindcss-module
 
-[license-src]: https://img.shields.io/npm/l/eliyas5044/tailwindcss.svg
-[license-href]: https://npmjs.com/package/eliyas5044/tailwindcss
+[license-src]: https://img.shields.io/npm/l/@eliyas5044/tailwindcss.svg
+[license-href]: https://npmjs.com/package/@eliyas5044/tailwindcss

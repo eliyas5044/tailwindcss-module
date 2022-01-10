@@ -2,8 +2,16 @@
   "name": "@eliyas5044/tailwindcss",
   "version": "1.1.3",
   "description": "TailwindCSS module for Nuxt",
-  "repository": "eliyas5044/tailwindcss-module",
+  "homepage": "https://github.com/eliyas5044/tailwindcss-module#readme",
+  "bugs": {
+    "url": "https://github.com/eliyas5044/tailwindcss-module/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliyas5044/tailwindcss-module.git"
+  },
   "license": "MIT",
+  "author": "Eliyas Hossain",
   "exports": {
     ".": "./dist/index.js",
     "./src/runtime/*": "./dist/runtime/*",
@@ -11,6 +19,11 @@
   },
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
+  "directories": {
+    "doc": "docs",
+    "example": "example",
+    "test": "test"
+  },
   "files": [
     "dist"
   ],

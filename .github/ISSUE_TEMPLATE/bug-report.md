@@ -11,7 +11,7 @@ assignees: ''
 Before reporting a bug, please make sure that you have read through our and the TailwindCSS documentation and you think your problem is indeed an issue related to our module. -->
 
 ### Version
-eliyas5044/tailwindcss: <!-- ex: v1.1.0 -->
+@eliyas5044/tailwindcss: <!-- ex: v1.1.0 -->
 nuxt: <!-- ex: v2.12.0 -->
 
 ### Reproduction Link
