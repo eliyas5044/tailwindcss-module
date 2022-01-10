@@ -34,7 +34,7 @@
     "lint": "eslint --ext .js,.ts,.vue",
     "test": "yarn lint && jest",
     "prepack": "yarn build",
-    "release": "yarn test && standard-version && git push --follow-tags && npm publish"
+    "release": "yarn test && standard-version && git push --follow-tags && npm publish --access public"
   },
   "dependencies": {
     "@nuxt/postcss8": "^1.1.3",
